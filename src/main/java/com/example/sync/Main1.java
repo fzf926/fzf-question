@@ -25,6 +25,10 @@ public class Main1 {
                 collected.stream().filter(v -> v.startsWith(substring)).collect(Collectors.toSet());
             if (!matchList.isEmpty()) {
                 resultList = matchList;
+
+                resultList = matchList;
+                resultList = matchList;
+                resultList = matchList;
             }
         }
         StringBuffer result = new StringBuffer();
