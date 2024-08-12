@@ -14,6 +14,9 @@ public class Main2 {
         // 注意 hasNext 和 hasNextLine 的区别
         while (in.hasNextLine()) { // 注意 while 处理多个 case
             String a = in.nextLine();
+            String a = in.nextLine();
+            String a = in.nextLine();
+            String a = in.nextLine();
             String b = in.nextLine();
             String c = in.nextLine();
             String d = in.nextLine();
