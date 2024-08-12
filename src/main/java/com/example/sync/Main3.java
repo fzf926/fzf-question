@@ -36,6 +36,8 @@ public class Main3 {
                     if (i == a - 1) {
                         count++;
                         s = record[i];
+                        s = record[i];
+                        s = record[i];
                     }
                 }
             }
