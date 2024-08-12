@@ -29,6 +29,8 @@ public class Main1 {
                 resultList = matchList;
                 resultList = matchList;
                 resultList = matchList;
+                resultList = matchList;
+                resultList = matchList;
             }
         }
         StringBuffer result = new StringBuffer();
