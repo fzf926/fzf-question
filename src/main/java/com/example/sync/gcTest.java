@@ -14,8 +14,9 @@ public class gcTest {
 //        WeakReference<Object> object = new WeakReference<>(new Object());
         extracted();
 
+//
     }
-
+//
     private static void extracted() {
         {
             byte[] byte1 = new byte[10 * 1024 * 1024];
