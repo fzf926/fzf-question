@@ -16,6 +16,9 @@ public class Main8 {
 //        a.right.left = new TreeNode("F");
 //        a.right.right = new TreeNode("G");
         System.out.println(handle(a));
+        System.out.println(handle(a));
+        System.out.println(handle(a));
+
 
     }
 
