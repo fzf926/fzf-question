@@ -18,6 +18,8 @@ public class Main8 {
         System.out.println(handle(a));
         System.out.println(handle(a));
         System.out.println(handle(a));
+        System.out.println(handle(a));
+        System.out.println(handle(a));
 
 
     }
