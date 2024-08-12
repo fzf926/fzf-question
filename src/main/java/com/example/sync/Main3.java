@@ -40,6 +40,12 @@ public class Main3 {
                         s = record[i];
                         s = record[i];
                         s = record[i];
+                        s = record[i];
+                        s = record[i];
+                        s = record[i];
+                        s = record[i];
+                        s = record[i];
+                        s = record[i];
                     }
                 }
             }
