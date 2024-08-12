@@ -19,6 +19,9 @@ public class Main7 {
             value.add(1);
         }
         value.forEach(System.out::println);
+        value.forEach(System.out::println);
+        value.forEach(System.out::println);
+        value.forEach(System.out::println);
 
     }
 
